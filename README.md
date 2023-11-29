@@ -44,8 +44,8 @@
 ![image](https://github.com/arshitha7/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979143/1886cefd-693c-48c8-8aa5-7fbabc360f72)
 
 
-### Name:
-### Register Number:
+### Name: Arshitha MS
+### Register Number: 23014017
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
